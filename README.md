@@ -99,13 +99,11 @@ npm start
 
 ## 🌍 Live Demo
 
-[View on Vercel](https://your-vercel-url.vercel.app)
+## 🌐 Live Demo
 
-```
+🔗 [Click here to view the deployed app](https://react-reels-app-lac.vercel.app/)
 
-✅ You can copy this into `README.md` at the root of your project.
 
----
 
 ## 🚀 Deploy to Vercel
 
