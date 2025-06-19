@@ -68,3 +68,69 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Strmly Web 🎥
+
+A responsive vertical short video feed app built with React, Tailwind CSS, and Context API — inspired by Reels/Shorts UI.
+
+## ✨ Features
+
+- Infinite scroll with auto-play/pause videos
+- Like with optimistic UI and double-click effect
+- Follow toggle
+- Share popup (WhatsApp, Copy Link)
+- Dummy login with localStorage
+- Fully responsive layout
+- Clean component structure
+
+## 📦 Tech Stack
+
+- React (with Hooks)
+- Tailwind CSS (CDN-based)
+- Context API (global login state)
+- Font Awesome (icons)
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm start
+````
+
+## 🌍 Live Demo
+
+[View on Vercel](https://your-vercel-url.vercel.app)
+
+```
+
+✅ You can copy this into `README.md` at the root of your project.
+
+---
+
+## 🚀 Deploy to Vercel
+
+Here are clean and fast instructions:
+
+---
+
+### 1. Push Code to GitHub (already done)
+
+Make sure your code is live on GitHub (you've done this ✅).
+
+---
+
+### 2. Go to [https://vercel.com](https://vercel.com)  
+- Sign in with GitHub  
+- Click **“+ Add New Project”**  
+- Select your `strmly-web` repo  
+- Click **“Import”**
+
+---
+
+### 3. Configuration
+- **Framework:** React  
+- Leave build command and output directory blank (Vercel auto-detects `npm run build` and `dist` or `build`)  
+- Click **Deploy**
+
+---
+
