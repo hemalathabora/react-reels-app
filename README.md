@@ -99,7 +99,7 @@ npm start
 
 ## 🌍 Live Demo
 
-## 🌐 Live Demo
+
 
 🔗 [Click here to view the deployed app](https://react-reels-app-lac.vercel.app/)
 
