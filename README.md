@@ -133,4 +133,10 @@ Make sure your code is live on GitHub (you've done this ✅).
 - Click **Deploy**
 
 ---
+### 4. Wait 30–60 seconds...
+You’ll get a live URL like:
+
+[https://strmly-web.vercel.app](https://react-reels-app-lac.vercel.app/)
+
+
 
